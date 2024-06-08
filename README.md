@@ -25,4 +25,4 @@ Mahasiswa membuat kode sumber dengan bahasa pemrograman yang dikuasai untuk meng
 - Mengunggah kode sumber tersebut ke Github dan setel sebagai publik. Berikan deskripsi yang memadai dari project tersebut. Masukkan juga dataset dan data hasil di repositori tersebut.
 - Buat dokumen docx dan pdf yang menjelaskan alur kode dari (1), analisis hasil, dan penjabarannya. Sistematika dokumen: Ringkasan, Konsep, Implementasi Kode, Hasil Pengujian, dan Analisis Hasil.
 
-(Note : Pada bagian variable data, isikan dengan directory file "student_performance.csv" pada komputer anda(jika directorynya berubah)) 
+(Note : Pada bagian variable "data", isikan dengan directory file "student_performance.csv" pada komputer anda(jika directorynya berubah)) 
